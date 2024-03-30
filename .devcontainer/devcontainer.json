@@ -13,7 +13,8 @@
 				"EditorConfig.EditorConfig",
 				"xaver.clang-format",
 				"bierner.github-markdown-preview",
-				"donjayamanne.git-extension-pack"
+				"Ciantic.keymapceditor-vsc",
+				"mutantdino.resourcemonitor"
 			]
 		}
 	}
